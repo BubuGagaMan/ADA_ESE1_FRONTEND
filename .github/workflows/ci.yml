@@ -19,6 +19,9 @@ jobs:
 
       - name: Cypress run
         uses: cypress-io/github-action@v6
+        env:
+          # allow untrusted sources, fix ssl errors for https
+          NODE_TLS_REJECT_UNAUTHORIZED: 0
         with:
           start: npm run dev
           wait-on: "https://localhost:5173"
