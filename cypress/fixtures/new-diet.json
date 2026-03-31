@@ -1,0 +1,21 @@
+{
+  "message": "New diet successfully created for user",
+  "data": {
+    "id": "e5a5b7eb-e409-4348-ba82-3ca5df2493c6",
+    "name": "diet 2",
+    "calories": 0,
+    "carbohydrates": 0,
+    "proteins": 0,
+    "fats": 0,
+    "fiber": 0,
+    "carbohydrate_lower_range": 3238,
+    "carbohydrate_upper_range": 4677,
+    "protein_lower_range": 1079,
+    "protein_upper_range": 1439,
+    "fat_lower_range": 640,
+    "fat_upper_range": 1119,
+    "daily_calorie_target": 28779,
+    "user": { "id": "66666666-6666-4666-a666-666666666666" },
+    "weight_goal": 0
+  }
+}
