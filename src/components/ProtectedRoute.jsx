@@ -1,5 +1,4 @@
-// src/components/ProtectedRoute.jsx
-import React, { useContext } from "react";
+import { useContext } from "react";
 import { Navigate } from "react-router-dom";
 import { AuthContext } from "../context/AuthContext";
 import LoadingSpinner from "./LoadingSpinner";
@@ -11,7 +10,6 @@ const ProtectedRoute = ({ children }) => {
     return <LoadingSpinner message="Authenticating..." />;
   }
 
-  // If they have NO token, bounce them to login
   if (!token) {
     return <Navigate to="/login" replace />;
   }
