@@ -1,0 +1,13 @@
+{
+  "message": "Metrics updated successfully",
+  "data": {
+    "userMetrics": {
+      "id": "3426ade2-b4a7-4936-ad56-e920982a83c5",
+      "height": 1800,
+      "weight": 800,
+      "sex": 0,
+      "dob": "2000-12-26",
+      "activity_level": "1.725"
+    }
+  }
+}

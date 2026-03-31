@@ -1,0 +1,22 @@
+{
+  "message": "Successfully fetched all user diets",
+  "data": [
+    {
+      "id": "99999999-9999-4999-a999-999999999999",
+      "name": "diet1",
+      "calories": 14622,
+      "carbohydrates": 680,
+      "proteins": 677,
+      "fats": 1017,
+      "fiber": 269,
+      "carbohydrate_lower_range": 3238,
+      "carbohydrate_upper_range": 4677,
+      "protein_lower_range": 1079,
+      "protein_upper_range": 1439,
+      "fat_lower_range": 640,
+      "fat_upper_range": 1119,
+      "daily_calorie_target": 28779,
+      "weight_goal": 0
+    }
+  ]
+}

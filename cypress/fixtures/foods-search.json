@@ -1,0 +1,61 @@
+{
+  "message": "Successfully fetched foods",
+  "data": [
+    {
+      "id": "6bc28913-4bd6-4c05-ad56-eb7190934b50",
+      "name": "Almonds, raw",
+      "carbohydrates": 220,
+      "proteins": 210,
+      "fats": 490,
+      "calories": 5790,
+      "fiber": 120,
+      "weight": 1000,
+      "glycemic_index": 150
+    },
+    {
+      "id": "9986eadd-ae14-44a6-9888-864cdce8a463",
+      "name": "Apple, with skin",
+      "carbohydrates": 140,
+      "proteins": 3,
+      "fats": 2,
+      "calories": 520,
+      "fiber": 24,
+      "weight": 1000,
+      "glycemic_index": 390
+    },
+    {
+      "id": "1cfbc7a9-4f04-455b-a547-b1dff7fc6c29",
+      "name": "Avocado",
+      "carbohydrates": 85,
+      "proteins": 2,
+      "fats": 147,
+      "calories": 1600,
+      "fiber": 67,
+      "weight": 1000,
+      "glycemic_index": 150
+    },
+    {
+      "id": "b7397c2f-5e16-4a3b-be42-d37cb0227d69",
+      "name": "Chicken Breast, grilled",
+      "carbohydrates": 0,
+      "proteins": 310,
+      "fats": 36,
+      "calories": 1650,
+      "fiber": 0,
+      "weight": 1000,
+      "glycemic_index": 0
+    },
+    {
+      "id": "b8cb1b1d-07b1-45e8-bb65-ac1d335dd510",
+      "name": "Greek Yogurt, plain",
+      "carbohydrates": 36,
+      "proteins": 10,
+      "fats": 4,
+      "calories": 590,
+      "fiber": 0,
+      "weight": 1000,
+      "glycemic_index": 120
+    }
+  ],
+  "meta": { "totalItems": 10, "currentPage": 1, "totalPages": 2, "limit": 5 }
+}

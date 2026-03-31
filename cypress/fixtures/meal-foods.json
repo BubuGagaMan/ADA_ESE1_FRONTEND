@@ -1,0 +1,65 @@
+{
+  "message": "Successfully fetched all foods for a meal",
+  "data": [
+    {
+      "id": "118369f2-5826-48d0-a437-ad26cf3332f3",
+      "weight": 1200,
+      "food": {
+        "id": "9986eadd-ae14-44a6-9888-864cdce8a463",
+        "name": "Apple, with skin",
+        "carbohydrates": 140,
+        "proteins": 3,
+        "fats": 2,
+        "calories": 520,
+        "fiber": 24,
+        "weight": 1000,
+        "glycemic_index": 390
+      }
+    },
+    {
+      "id": "abaf3d0b-6ecd-4720-b2e7-041899a67df6",
+      "weight": 2000,
+      "food": {
+        "id": "b8cb1b1d-07b1-45e8-bb65-ac1d335dd510",
+        "name": "Greek Yogurt, plain",
+        "carbohydrates": 36,
+        "proteins": 10,
+        "fats": 4,
+        "calories": 590,
+        "fiber": 0,
+        "weight": 1000,
+        "glycemic_index": 120
+      }
+    },
+    {
+      "id": "0f1c1384-33f3-4cbc-b6b7-2e19561b962e",
+      "weight": 2000,
+      "food": {
+        "id": "6bc28913-4bd6-4c05-ad56-eb7190934b50",
+        "name": "Almonds, raw",
+        "carbohydrates": 220,
+        "proteins": 210,
+        "fats": 490,
+        "calories": 5790,
+        "fiber": 120,
+        "weight": 1000,
+        "glycemic_index": 150
+      }
+    },
+    {
+      "id": "4168c6a0-5ee8-43b1-962c-8cf806f1d8f1",
+      "weight": 750,
+      "food": {
+        "id": "b7397c2f-5e16-4a3b-be42-d37cb0227d69",
+        "name": "Chicken Breast, grilled",
+        "carbohydrates": 0,
+        "proteins": 310,
+        "fats": 36,
+        "calories": 1650,
+        "fiber": 0,
+        "weight": 1000,
+        "glycemic_index": 0
+      }
+    }
+  ]
+}
