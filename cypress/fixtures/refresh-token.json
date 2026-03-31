@@ -1,0 +1,6 @@
+{
+  "message": "Access token successfully refreshed",
+  "data": {
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NjY2NjY2LTY2NjYtNDY2Ni1hNjY2LTY2NjY2NjY2NjY2NiIsInVzZXJuYW1lIjoiZml0bmVzc19ndXJ1Iiwic3VzcGVuZGVkIjpmYWxzZSwicm9sZXMiOlt7ImlkIjoiNDQ0NDQ0NDQtNDQ0NC00NDQ0LWE0NDQtNDQ0NDQ0NDQ0NDQ0IiwibmFtZSI6IkFETUlOIn1dLCJpYXQiOjE3NzQ4ODkzNTYsImV4cCI6MTc3NDg4OTM4Nn0.FweZB8gEokjtoNjFMzAztoaMRmI1i5blb8lAvmadytE"
+  }
+}

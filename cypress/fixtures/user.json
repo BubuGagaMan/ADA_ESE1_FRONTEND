@@ -1,0 +1,21 @@
+{
+  "message": "User successfully retrieved!",
+  "data": {
+    "user": {
+      "id": "66666666-6666-4666-a666-666666666666",
+      "username": "fitness_guru",
+      "email": "bojik123@yahoo.com",
+      "profile_image_url": null,
+      "roles": ["ADMIN"],
+      "suspended": false,
+      "userMetrics": {
+        "id": "3426ade2-b4a7-4936-ad56-e920982a83c5",
+        "height": 1750,
+        "weight": 750,
+        "sex": 0,
+        "dob": "2000-12-26",
+        "activity_level": "1.55"
+      }
+    }
+  }
+}
