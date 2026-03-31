@@ -19,7 +19,7 @@ const Dashboard = () => {
       className="dashboard-container"
       style={{ padding: "20px", maxWidth: "800px", margin: "0 auto" }}
     >
-      <h1>Your Diets</h1>
+      <h1>Your Diets - REDEPLOYED!</h1>
 
       {diets.length === 0 ? (
         <div className="no-diets" style={{ marginTop: "20px" }}>
