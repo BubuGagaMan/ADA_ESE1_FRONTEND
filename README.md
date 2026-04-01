@@ -99,3 +99,10 @@ HTML sanitization on text inputs to prevent basic XSS injections.
 Graceful handling of expired sessions and suspended accounts via Axios interceptors.
 
 CI/CD CHANGE FE
+
+## Deployment 
+
+Deployment via NETLIFY
+HTTPS ONLY - cookies and CORS setups ensuring this in order to disable CSRF attacks
+DNS records setup to validate https requests
+GithubApp connected to netlify project for CD
