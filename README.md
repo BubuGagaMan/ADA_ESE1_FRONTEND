@@ -10,15 +10,17 @@ Role-Based Access Control: Differentiates between standard users and administrat
 
 Personalized Metrics: Users can input their physical metrics (height, weight, age, activity level) to calculate specific dietary needs.
 
-Diet & Meal Management: * Create custom diets with specific weight goals.
+Diet & Meal Management: 
 
-Add meals to diets and populate them with specific foods.
+- Create custom diets with specific weight goals.
 
-Search a database of foods and calculate precise macronutrients based on portion weight.
+- Add meals to diets and populate them with specific foods.
 
-Visual Macro Tracking: Real-time, animated progress bars for calories, proteins, carbohydrates, and fats to visualize daily progress against targets.
+- Search a database of foods and calculate precise macronutrients based on portion weight.
 
-Profile Customization: Upload and manage profile avatars (powered by Uploadcare) and update account settings safely.
+- Visual Macro Tracking: Real-time, animated progress bars for calories, proteins, carbohydrates, and fats to visualize daily progress against targets.
+
+- Profile Customization: Upload and manage profile avatars (powered by Uploadcare) and update account settings safely.
 
 ## Tech Stack
 
