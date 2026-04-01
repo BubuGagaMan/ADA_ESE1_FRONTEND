@@ -10,7 +10,7 @@ Role-Based Access Control: Differentiates between standard users and administrat
 
 Personalized Metrics: Users can input their physical metrics (height, weight, age, activity level) to calculate specific dietary needs.
 
-Diet & Meal Management: 
+Diet & Meal Management:
 
 - Create custom diets with specific weight goals.
 
@@ -63,7 +63,6 @@ Make sure you have Node.js installed.
 
 npm install
 
-
 ### 2. Environment Variables
 
 Create a .env file in the root directory based on the provided .env.example file:
@@ -71,13 +70,11 @@ Create a .env file in the root directory based on the provided .env.example file
 VITE_BACKEND_API_URL=https://localhost:3000
 VITE_UPLOADCARE_CLIENT_KEY=your_uploadcare_public_key
 
-
 ### 3. Run the Development Server
 
 This project uses vite-plugin-mkcert to run the local development server securely over HTTPS.
 
 npm run dev
-
 
 Note: The first time you run this, your browser might warn you about a local certificate. You will need to proceed past the warning to view the app at https://localhost:5173.
 
@@ -93,7 +90,6 @@ Run the Cypress tests using the Cypress UI.
 
 npx cypress open
 
-
 ## Security & Validation
 
 Client-side validation for all forms (emails, password strength, username constraints).
@@ -101,3 +97,5 @@ Client-side validation for all forms (emails, password strength, username constr
 HTML sanitization on text inputs to prevent basic XSS injections.
 
 Graceful handling of expired sessions and suspended accounts via Axios interceptors.
+
+CI/CD CHANGE FE
